@@ -1,0 +1,64 @@
+
+                                      ARENA Simulation Results
+                                      sandro - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Unnamed Project                                             Data da execução : 7/ 3/2025
+Analista: sandro                                                      Data de revisão do modelo: 7/ 3/2025
+
+Replicação terminada no tempo de      : 16.666667 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .77668     (Insuf)    .63208     1.0500         44    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000         44    
+Entity 1.WaitTime                           .66116     (Insuf)    .00000     1.5925         44    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000         44    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000         44    
+Entity 1.TotalTime                          1.4378     (Insuf)    .69955     2.3187         44    
+Processo Reparo.Queue.WaitingTime           .00000     (Insuf)    .00000     .00000         10    
+Processo Inspecao.Queue.WaitingTime         .01336     (Insuf)    .00000     .07921         45    
+PROCESSO MAQ.A.Queue.WaitingTime            .65831     (Insuf)    .00000     1.5703         46    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                3.9514     (Insuf)    .00000     7.0000     3.0000    
+Recurso_Inspecao.NumberBusy                 .77841     (Insuf)    .00000     1.0000     1.0000    
+Recurso_Inspecao.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Recurso_Inspecao.Utilization                .77841     (Insuf)    .00000     1.0000     1.0000    
+Recurso_MAQ_A.NumberBusy                    .89084     (Insuf)    .00000     1.0000     1.0000    
+Recurso_MAQ_A.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Recurso_MAQ_A.Utilization                   .89084     (Insuf)    .00000     1.0000     1.0000    
+Recurso_Reparo.NumberBusy                   .12918     (Insuf)    .00000     1.0000     .00000    
+Recurso_Reparo.NumberScheduled              1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Recurso_Reparo.Utilization                  .12918     (Insuf)    .00000     1.0000     .00000    
+Processo Reparo.Queue.NumberInQueue         .00000     (Insuf)    .00000     .00000     .00000    
+Processo Inspecao.Queue.NumberInQueue       .03606     (Insuf)    .00000     1.0000     .00000    
+PROCESSO MAQ.A.Queue.NumberInQueue          1.8249     (Insuf)    .00000     5.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Entity 1.NumberIn                           47.000    
+Entity 1.NumberOut                          44.000    
+Recurso_Inspecao.NumberSeized               45.000    
+Recurso_Inspecao.ScheduledUtilization       .77841    
+Recurso_MAQ_A.NumberSeized                  46.000    
+Recurso_MAQ_A.ScheduledUtilization          .89084    
+Recurso_Reparo.NumberSeized                 10.000    
+Recurso_Reparo.ScheduledUtilization         .12918    
+System.NumberOut                            44.000    
+
+
+Tempo executando a simulação: 0.10 minutos.
+Simulação completada.

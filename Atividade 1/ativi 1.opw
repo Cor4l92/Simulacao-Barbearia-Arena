@@ -1,0 +1,25 @@
+[RESOURCES]
+Recurso_Inspecao
+Recurso_MAQ_A
+Recurso_Reparo
+[VARIABLES]
+Transporte para Reparo.NumberOut
+Transporte para Reparo.NumberIn
+Processo Inspecao.NumberOut
+Processo Inspecao.NumberIn
+peca com Defeito?.NumberOut True
+chegada de pedidos.NumberOut
+Expedicao.NumberOut
+peca com Defeito?.NumberOut False
+Transporte para Expedicao 2.NumberOut
+Transporte para Expedicao 1.NumberOut
+Processo Reparo.NumberOut
+Processo Reparo.NumberIn
+Transporte para MAQA.NumberIn
+PROCESSO MAQ.A.NumberOut
+PROCESSO MAQ.A.NumberIn
+Transporte para Inspecao.NumberIn
+Transporte para MAQA.NumberOut
+Transporte para Inspecao.NumberOut
+Transporte para Expedicao 2.NumberIn
+Transporte para Expedicao 1.NumberIn
